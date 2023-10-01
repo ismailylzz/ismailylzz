@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1155629901865562223/1155629949223436328/pd.png?ex=651a9982&is=65194802&hm=bc426fcdace03fedb7956b43c167a5b9157f833255d94c1d4b39355e809edb6c&)
+![MasterHead](https://cdn.discordapp.com/attachments/1155629901865562223/1155629949223436328/pd.png?ex=651a9982&is=65194802&hm=bc426fcdace03fedb7956b43c167a5b9157f833255d94c1d4b39355e809edb6c&)
 <h1 align="center">Hi 👋, I'm İsmail Yıldız</h1>
 <h3 align="center">Türkiyede php,javascript,css,html alanında çalışan öğrenci</h3>
 
